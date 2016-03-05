@@ -7,6 +7,6 @@ main = do
     , borderWidth = myBorderWidth
     }
 
-myTerminal    = "urxvt"
+myTerminal    = "urxvtc"
 myModMask     = mod4Mask -- Win key or Super_L
 myBorderWidth = 3
